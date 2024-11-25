@@ -34,6 +34,13 @@
 
 ---
 
+### 🎮 **Efeito "Game Over" para Demonstrações**  
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD29s6Cm7rjw3KM/giphy.gif" alt="Game Over" width="600">
+</div>
+
+---
+
 ### 🎨 **Gráficos Interativos**  
 #### 📈 **Atividades Recentes**  
 <div align="center">
