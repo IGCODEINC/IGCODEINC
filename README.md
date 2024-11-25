@@ -1,65 +1,75 @@
-# 👋 Olá, sou o **@IGCODEINC**!
+# 👋 Bem-vindo à **IGCODERS**!  
 
-[![GitHub Followers](https://img.shields.io/github/followers/IGCODEINC?style=social)](https://github.com/IGCODEINC)
-[![GitHub Stars](https://img.shields.io/github/stars/IGCODEINC?style=social)](https://github.com/IGCODEINC)
-
----
-
-## 🌟 Sobre Mim
-
-💻 Desenvolvedor apaixonado por criar soluções inovadoras e explorar novas tecnologias.
-
-- 👀 Interesses: **Inteligência Artificial, Desenvolvimento Web, Automação e Open Source**  
-- 🌱 Atualmente aprendendo: **Node.js, Machine Learning, e Design de APIs**  
-- 💞️ Procurando colaborar em: **projetos de impacto global e com foco em comunidades**  
-- 😄 Pronomes: **Ele/Dele**  
-- ⚡ Curiosidade divertida: **Meu primeiro código foi um jogo em Python que ninguém sabia jogar... nem eu!**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&background=000000&center=true&vCenter=true&width=1000&lines=Inovando+o+Futuro+com+Tecnologia.;Construindo+Solu%C3%A7%C3%B5es+que+Impactam.;Bem-vindo+à+IGCODERS!)](https://github.com/IGCODERS)
 
 ---
 
-## 🚀 Minhas Ferramentas & Tecnologias
+## 🚀 Sobre a **IGCODERS**
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+✨ **A IGCODERS é uma empresa de desenvolvimento de software dedicada a criar soluções tecnológicas personalizadas e de alta qualidade.**  
+🎯 **Missão:** Transformar ideias em produtos digitais que impactam positivamente o mundo.  
+🌍 **Valores:** Inovação, qualidade e compromisso com resultados.  
+
+### 🔍 O que fazemos:
+- **Desenvolvimento Web**: Aplicações modernas com design responsivo.  
+- **Soluções Mobile**: Experiência de usuário em qualquer dispositivo.  
+- **Inteligência Artificial**: Automação e insights através de IA.  
+- **Consultoria e Automação**: Estratégias para aumentar eficiência e produtividade.  
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Nossos Números
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=IGCODEINC&show_icons=true&theme=radical" alt="Estatísticas do IGCODEINC" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IGCODEINC&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=IGCODERS&show_icons=true&theme=radical" alt="Estatísticas da IGCODERS">
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=IGCODERS&theme=radical" alt="Streak da IGCODERS">
+  <img height="165em" src="https://github-readme-activity-graph.vercel.app/graph?username=IGCODERS&theme=radical" alt="Gráfico de Atividades">
 </div>
 
 ---
 
-## 📫 Como Entrar em Contato
+## 💎 Projetos em Destaque  
 
-- 📧 Email: [seu-email@exemplo.com](mailto:seu-email@exemplo.com)  
-- 🌐 Website: [www.seusite.com](https://www.seusite.com)  
-- 💬 LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seuusuario)  
-- 🐦 Twitter: [@SeuTwitter](https://twitter.com/seuusuario)
+### 🌟 **[Plataforma EduTech](https://github.com/IGCODERS/edutech-platform)**  
+**Uma solução completa para aprendizado remoto, integrando IA e gamificação.**
 
----
-
-## 🎉 Um Pouco Mais de Mim...
-
-🖼️ Gosto de criar conteúdo educacional e inspirador sobre tecnologia.  
-🎮 Nas horas vagas, sou fã de jogos retro e do universo geek.  
-📚 Amo ler sobre história da tecnologia e inovação.
+![EduTech Project](https://github-readme-stats.vercel.app/api/pin/?username=IGCODERS&repo=edutech-platform&theme=radical)
 
 ---
 
-## 🌈 Vamos nos conectar!
+### 🌟 **[Gestão Empresarial Simplificada](https://github.com/IGCODERS/gestao-simplificada)**  
+**Ferramenta de automação para pequenas empresas com dashboards avançados.**
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/IGCODEINC)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuusuario)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/seuusuario)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/seuusuario)
+![Gestão Simplificada](https://github-readme-stats.vercel.app/api/pin/?username=IGCODERS&repo=gestao-simplificada&theme=radical)
 
-✨ **Venha explorar meu repositório e colaborar em algo incrível!**  
+---
+
+## 🌟 Tecnologias que Dominamos
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,vue,angular,python,django,flask,mysql,postgresql,mongodb,git,github,linux,aws,azure,gcp,vscode&theme=light" alt="Ferramentas e Tecnologias">
+</p>
+
+---
+
+## 🌍 Vamos Trabalhar Juntos!
+
+**Estamos prontos para colaborar em projetos desafiadores. Entre em contato conosco:**
+
+- 🌐 **Website:** [www.igcoders.com](https://www.igcoders.com)  
+- 📧 **E-mail:** [contato@igcoders.com](mailto:contato@igcoders.com)  
+- 💬 **LinkedIn:** [IGCODERS no LinkedIn](https://linkedin.com/company/igcoders)  
+- 🐦 **Twitter:** [@IGCODERS](https://twitter.com/igcoders)  
+
+---
+
+## 🎮 Um Pouco Sobre Nós
+
+🎨 Somos apaixonados por inovação e por criar soluções que facilitam a vida.  
+🎯 Focamos em performance e design centrado no usuário.  
+🤝 Acreditamos em parcerias duradouras e no sucesso colaborativo.  
+
+---
+
+![Footer Animation](https://raw.githubusercontent.com/IGCODERS/IGCODERS/main/assets/footer.gif)
+
