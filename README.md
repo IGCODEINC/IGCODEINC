@@ -1,81 +1,88 @@
-# 👋 Bem-vindo à **IGCODERS**!  
+# 🚀 Bem-vindo à **IGCODERS**!  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&background=000000&center=true&vCenter=true&width=1000&lines=Inovando+o+Futuro+com+Tecnologia.;Construindo+Solu%C3%A7%C3%B5es+que+Impactam.;Bem-vindo+à+IGCODERS!)](https://github.com/IGCODERS)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&background=000000&center=true&vCenter=true&width=1000&lines=Transformando+Ideias+em+Inovação.;Construindo+Soluções+Digitais+de+Impacto.;Seja+Bem-vindo+à+IGCODERS!)](https://github.com/IGCODERS)
 
----
-
-## 🚀 Sobre a **IGCODERS**
-
-✨ **A IGCODERS é uma empresa de desenvolvimento de software dedicada a criar soluções tecnológicas personalizadas e de alta qualidade.**  
-🎯 **Missão:** Transformar ideias em produtos digitais que impactam positivamente o mundo.  
-🌍 **Valores:** Inovação, qualidade e compromisso com resultados.  
-
-### 🔍 O que fazemos:
-- **Desenvolvimento Web**: Aplicações modernas com design responsivo.  
-- **Soluções Mobile**: Experiência de usuário em qualquer dispositivo.  
-- **Inteligência Artificial**: Automação e insights através de IA.  
-- **Consultoria e Automação**: Estratégias para aumentar eficiência e produtividade.  
-
----
-
-## 📊 Gráficos e Estatísticas  
-
-### 🏆 **Estatísticas do Perfil**  
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=IGCODERS&show_icons=true&theme=radical" alt="Estatísticas da IGCODERS">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Bem-vindo à IGCODERS" width="600">
 </div>
 
 ---
 
-### 🔥 **Contribuições em Sequência**  
+## ✨ Sobre Nós  
+
+> "A **IGCODERS** é mais do que uma empresa de software, somos um time de inovadores que transforma desafios tecnológicos em soluções de alta performance."
+
+🌟 **Missão:** Inovar através da tecnologia.  
+🌍 **Valores:** Colaboração, excelência e impacto global.  
+🎯 **Especialidades:** Desenvolvimento Web, IA, soluções móveis e muito mais.
+
+---
+
+## 🌟 Destaques Visuais  
+
+### 🚦 **Status do Perfil em Tempo Real**  
 <div align="center">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=IGCODERS&theme=radical" alt="Streak da IGCODERS">
+  <img src="https://github-profile-trophy.vercel.app/?username=IGCODERS&theme=dracula&row=1&column=6&margin-w=15&margin-h=15&no-bg=true" alt="Troféus do Perfil">
 </div>
 
 ---
 
-### 📈 **Gráfico de Atividades**  
+### 🌍 **Distribuição Global de Visitantes**  
 <div align="center">
-  <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=IGCODERS&theme=react-dark" alt="Gráfico de Atividades">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Cobra de Contribuições" width="700">
 </div>
 
 ---
 
-### 🧑‍💻 **Principais Linguagens Usadas**  
+### 🎨 **Gráficos Interativos**  
+#### 📈 **Atividades Recentes**  
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IGCODERS&layout=compact&theme=radical" alt="Linguagens Mais Usadas">
+  <img src="https://activity-graph.herokuapp.com/graph?username=IGCODERS&theme=react-dark" alt="Gráfico de Atividades">
 </div>
 
 ---
 
-## 💎 Projetos em Destaque  
+#### 🔥 **Contribuições Diárias**  
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IGCODERS&theme=radical" alt="Streak da IGCODERS">
+</div>
+
+---
+
+#### 🌐 **Linguagens e Tecnologias Mais Usadas**  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IGCODERS&layout=compact&theme=radical" alt="Linguagens Mais Usadas">
+</div>
+
+---
+
+## 💎 Projetos Exclusivos  
 
 ### 🌟 **[Plataforma EduTech](https://github.com/IGCODERS/edutech-platform)**  
-**Uma solução completa para aprendizado remoto, integrando IA e gamificação.**
+📚 *Transformando a educação com IA e gamificação.*
 
 ![EduTech Project](https://github-readme-stats.vercel.app/api/pin/?username=IGCODERS&repo=edutech-platform&theme=radical)
 
 ---
 
 ### 🌟 **[Gestão Empresarial Simplificada](https://github.com/IGCODERS/gestao-simplificada)**  
-**Ferramenta de automação para pequenas empresas com dashboards avançados.**
+📊 *Automação empresarial com dashboards interativos.*
 
 ![Gestão Simplificada](https://github-readme-stats.vercel.app/api/pin/?username=IGCODERS&repo=gestao-simplificada&theme=radical)
 
 ---
 
-## 🌟 Tecnologias que Dominamos
+## 🌍 Tecnologias que Utilizamos  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,vue,angular,python,django,flask,mysql,postgresql,mongodb,git,github,linux,aws,azure,gcp,vscode&theme=light" alt="Ferramentas e Tecnologias">
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,vue,angular,python,django,flask,mysql,postgresql,mongodb,git,github,linux,aws,azure,gcp,vscode&theme=dark" alt="Tecnologias da IGCODERS" />
+</div>
 
 ---
 
-## 🌍 Vamos Trabalhar Juntos!
+## 📫 Contato  
 
-**Estamos prontos para colaborar em projetos desafiadores. Entre em contato conosco:**
-
+💬 Vamos colaborar! Entre em contato:  
 - 🌐 **Website:** [www.igcoders.com](https://www.igcoders.com)  
 - 📧 **E-mail:** [contato@igcoders.com](mailto:contato@igcoders.com)  
 - 💬 **LinkedIn:** [IGCODERS no LinkedIn](https://linkedin.com/company/igcoders)  
@@ -83,13 +90,13 @@
 
 ---
 
-## 🎮 Um Pouco Sobre Nós
+## 🎯 Depoimentos e Cases de Sucesso  
 
-🎨 Somos apaixonados por inovação e por criar soluções que facilitam a vida.  
-🎯 Focamos em performance e design centrado no usuário.  
-🤝 Acreditamos em parcerias duradouras e no sucesso colaborativo.  
+> "Trabalhar com a **IGCODERS** foi uma experiência incrível! Sua dedicação e habilidade em entregar soluções inovadoras superaram todas as expectativas."  
+— *Cliente Satisfeito*
 
 ---
 
-![Footer Animation](https://raw.githubusercontent.com/IGCODERS/IGCODERS/main/assets/footer.gif)
-
+<div align="center">
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" alt="Let's Work Together!" width="600">
+</div>
