@@ -170,3 +170,15 @@ Use IA para gerar automaticamente descrições resumidas e detalhadas de cada pr
 <div align="center">
   <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" alt="Let's Work Together!" width="600">
 </div>
+
+---
+
+# <p align="center"> :running_man: Speed Run Game :dash:</p>
+
+<br>
+
+<p align="center">
+  <img alt="Gif exibindo imagens do projeto" src="https://i.imgur.com/ltp91V6.gif" width="100%">
+</p>
+
+### <p align="center">[CLICK AQUI para iniciar o game de speedrun!](https://speedrun.com/)</p>
