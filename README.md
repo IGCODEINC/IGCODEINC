@@ -18,12 +18,32 @@
 
 ---
 
-## 📊 Nossos Números
+## 📊 Gráficos e Estatísticas  
 
+### 🏆 **Estatísticas do Perfil**  
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=IGCODERS&show_icons=true&theme=radical" alt="Estatísticas da IGCODERS">
+</div>
+
+---
+
+### 🔥 **Contribuições em Sequência**  
+<div align="center">
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=IGCODERS&theme=radical" alt="Streak da IGCODERS">
-  <img height="165em" src="https://github-readme-activity-graph.vercel.app/graph?username=IGCODERS&theme=radical" alt="Gráfico de Atividades">
+</div>
+
+---
+
+### 📈 **Gráfico de Atividades**  
+<div align="center">
+  <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=IGCODERS&theme=react-dark" alt="Gráfico de Atividades">
+</div>
+
+---
+
+### 🧑‍💻 **Principais Linguagens Usadas**  
+<div align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IGCODERS&layout=compact&theme=radical" alt="Linguagens Mais Usadas">
 </div>
 
 ---
