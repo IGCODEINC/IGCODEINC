@@ -1,6 +1,6 @@
 # 🚀 Bem-vindo à **IGCODERS**!  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&background=000000&center=true&vCenter=true&width=1000&lines=Transformando+Ideias+em+Inovação.;Construindo+Soluções+Digitais+de+Impacto.;Seja+Bem-vindo+à+IGCODERS!)](https://github.com/IGCODERS)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&background=000000&center=true&vCenter=true&width=1000&lines=Iniciando+Sistema...;Conectando+ao+Servidor...;Bem-vindo+ao+universo+IGCODERS;Desenvolvendo+com+Tecnologia+de+Ponta!)](https://github.com/IGCODERS)
 
 <div align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Bem-vindo à IGCODERS" width="600">
