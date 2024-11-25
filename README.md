@@ -23,8 +23,10 @@
 ### 💬 **Assistente Virtual Inteligente**  
 <div align="center">
   <p>🎮 Pergunte-me qualquer coisa sobre a **IGCODERS**!</p>
-  <!-- Aqui você pode integrar um chatbot usando alguma ferramenta como Dialogflow ou Botpress -->
-  <img src="https://media.giphy.com/media/1oYnPrQEOYtdpgTkI9/giphy.gif" alt="Chatbot IA" width="500">
+  <!-- Link para um chatbot IA exemplo usando Dialogflow -->
+  <a href="https://dialogflow.cloud.google.com/#/login" target="_blank">
+    <img src="https://media.giphy.com/media/1oYnPrQEOYtdpgTkI9/giphy.gif" alt="Chatbot IA" width="500">
+  </a>
 </div>
 
 ---
@@ -32,7 +34,9 @@
 ### 📊 **Análise Inteligente de Dados**  
 #### 🎮 **Desempenho em Tempo Real**  
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=IGCODERS&theme=react-dark&bg_color=000000&color=36BCF7&line=2BB5F4" alt="Gráfico de Atividades IA">
+  <a href="https://activity-graph.herokuapp.com/graph?username=IGCODERS&theme=react-dark&bg_color=000000&color=36BCF7&line=2BB5F4" target="_blank">
+    <img src="https://activity-graph.herokuapp.com/graph?username=IGCODERS&theme=react-dark&bg_color=000000&color=36BCF7&line=2BB5F4" alt="Gráfico de Atividades IA">
+  </a>
 </div>
 
 ---
@@ -49,15 +53,21 @@ A IA analisa seu comportamento e sugere conteúdos para você com base no seu in
 #### **Resumos e Descrições Automáticas de Projetos**  
 Use IA para gerar automaticamente descrições resumidas e detalhadas de cada projeto listado no repositório, com base nos dados extraídos do código e dos objetivos do projeto.
 
+<p>💡 Confira as funcionalidades do nosso repositório EduTech: [EduTech Platform - GitHub](https://github.com/IGCODERS/edutech-platform)</p>
+
 ---
 
 ### 👁️ **Monitoramento Inteligente de Visitantes**  
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn9QHGRvwG6/giphy.gif" alt="Monitoramento Inteligente" width="500">
+  <a href="https://www.google.com/analytics" target="_blank">
+    <img src="https://media.giphy.com/media/26tn9QHGRvwG6/giphy.gif" alt="Monitoramento Inteligente" width="500">
+  </a>
 </div>
 
 ### 🧠 **IA de Análise de Tráfego**  
 #### Exibe análises de visitantes do site em tempo real, com sugestões sobre como otimizar o conteúdo para melhorar a experiência do usuário.
+
+<p>🔍 Para monitoramento de tráfego em tempo real, utilize [Google Analytics](https://analytics.google.com/analytics/web/) para acompanhar as interações dos visitantes.</p>
 
 ---
 
@@ -72,7 +82,9 @@ Use IA para gerar automaticamente descrições resumidas e detalhadas de cada pr
 
 ### 🌍 **Distribuição Global de Visitantes**  
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Cobra de Contribuições" width="700">
+  <a href="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" target="_blank">
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Cobra de Contribuições" width="700">
+  </a>
 </div>
 
 ---
@@ -87,21 +99,27 @@ Use IA para gerar automaticamente descrições resumidas e detalhadas de cada pr
 ### 🎨 **Gráficos Interativos**  
 #### 📈 **Atividades Recentes**  
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=IGCODERS&theme=react-dark" alt="Gráfico de Atividades">
+  <a href="https://activity-graph.herokuapp.com/graph?username=IGCODERS&theme=react-dark" target="_blank">
+    <img src="https://activity-graph.herokuapp.com/graph?username=IGCODERS&theme=react-dark" alt="Gráfico de Atividades">
+  </a>
 </div>
 
 ---
 
 #### 🔥 **Contribuições Diárias**  
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IGCODERS&theme=radical" alt="Streak da IGCODERS">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=IGCODERS&theme=radical" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=IGCODERS&theme=radical" alt="Streak da IGCODERS">
+  </a>
 </div>
 
 ---
 
 #### 🌐 **Linguagens e Tecnologias Mais Usadas**  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IGCODERS&layout=compact&theme=radical" alt="Linguagens Mais Usadas">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=IGCODERS&layout=compact&theme=radical" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IGCODERS&layout=compact&theme=radical" alt="Linguagens Mais Usadas">
+  </a>
 </div>
 
 ---
@@ -125,7 +143,9 @@ Use IA para gerar automaticamente descrições resumidas e detalhadas de cada pr
 ## 🌍 Tecnologias que Utilizamos  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,vue,angular,python,django,flask,mysql,postgresql,mongodb,git,github,linux,aws,azure,gcp,vscode&theme=dark" alt="Tecnologias da IGCODERS" />
+  <a href="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,vue,angular,python,django,flask,mysql,postgresql,mongodb,git,github,linux,aws,azure,gcp,vscode&theme=dark" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,vue,angular,python,django,flask,mysql,postgresql,mongodb,git,github,linux,aws,azure,gcp,vscode&theme=dark" alt="Tecnologias da IGCODERS" />
+  </a>
 </div>
 
 ---
